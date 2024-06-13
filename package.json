@@ -1,7 +1,7 @@
 {
   "name": "lab-site",
   "version": "0.1.0",
-  "description": "Yale University's Digital Humanities Lab Website",
+  "description": "Tsinghua University's Smart Imaging Lab Website",
   "main": "index.js",
   "repository": "https://github.com/YaleDHLab/dhlab-site.git",
   "author": "duhaime <douglas.duhaime@gmail.com>",
