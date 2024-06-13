@@ -1,10 +1,10 @@
 ---
 layout: page
-title: RESEARCH
-tagline: OUR WORK
-permalink: /research.html
-ref: about
-order: 0
+title: MEMBERS
+tagline: OUR TEAM
+permalink: /members.html
+ref: members
+order: 3
 ---
 
 This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)

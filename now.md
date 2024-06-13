@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Now
+title: News
 tagline: What I'm doing now
-permalink: /now.html
+permalink: /news.html
 ref: now
 order: 2
 ---
