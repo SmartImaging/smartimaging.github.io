@@ -3,7 +3,7 @@ layout: page
 title: News
 tagline: What I'm doing now
 permalink: /news.html
-ref: news
+ref: now
 order: 2
 ---
 
