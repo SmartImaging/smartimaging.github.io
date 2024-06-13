@@ -1,5 +1,5 @@
 baseurl: ''
-url: http://dhlab.yale.edu
+url: http://smartimaging.github.io
 
 # render posts with dates in the future
 future: true
@@ -89,11 +89,11 @@ defaults:
       layout: opportunity
 
 # social media
-twitter: YaleDHLab
-instagram: yaledhlab
-facebook: YaleDHLab
-github: YaleDHLab
-email: dhlab@yale.edu
+twitter: 
+instagram: 
+facebook: 
+github: 
+email: chj_cbir@tsinghua.edu.cn
 phone: 203-432-123
 
 # newsletter url
