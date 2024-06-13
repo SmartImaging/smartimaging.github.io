@@ -1,0 +1,20 @@
+# render posts with dates in the future
+future: true
+
+# minify html in production
+minify_html: false
+
+# create lunr index
+create_index: false
+
+# bust cache
+bust_cache: false
+
+# minify js
+compress_js: false
+
+# minify assets
+sass:
+  style: compressed
+  load_paths: 
+    - node_modules

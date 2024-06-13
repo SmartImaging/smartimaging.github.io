@@ -1,7 +1,7 @@
-# frozen_string_literal: true
-
 source 'https://rubygems.org'
+gem 'jekyll', '>= 3.6.3'
+gem 'minitest'
 
-
-
-gemspec
+group :jekyll_plugins do
+  gem 'octopress-minify-html'
+end

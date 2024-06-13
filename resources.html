@@ -1,0 +1,76 @@
+---
+layout: default
+class: resources-page full-width-mobile
+header_color: gray
+title: Resources
+---
+
+<div class='center-column' role='main'>
+  {% capture text %}
+    From consultations on project development to full partnerships on custom application design and creation, the Yale Digital Humanities Lab offers a wide range of services. Read on below to learn more about the ways our services can help advance your research.
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='What We Offer'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='RESOURCES'
+  %}
+
+  {% capture left_text_one %}
+    <p>The Digital Humanities Lab offers individual and group consultations for digital humanities projects at any stage of development, from conceptualization through implementation. Staff address questions related to project planning, best practices, data management, tool selection, and more.</p>
+
+    <a href='{{ site.baseurl }}/resources/consultations.html' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture left_text_two %}
+    <p>Whenever possible, the Yale University Library works with database vendors to include text and data mining (TDM) rights in license agreements. This means that for some databases (generally ones with out-of-copyright materials), Yale researchers can access the raw text for the purposes of data mining.</p>
+
+    <a href='{{ site.baseurl }}/resources/data.html' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture left_text_three %}
+    <p>The DHLab is equipped to support an array of computing needs. The Special Projects Cube at the center of the DHLab contains reservable scanning equipment for digitization and machines with specialized software for text, image, network, and spatial analysis and for general machine learning research. An open, communal workspace, the former reading room is lined with high-definition monitors, iMacs, and PCs, as well as an expanding Digital Humanities Book Collection available for researchers to use.</p>
+
+    <a href='{{ site.baseurl }}/resources/space.html' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture right_text_one %}
+    <p>The Digital Humanities Lab leads workshops throughout the year on DH project development and related topics. These workshops are open to all Yale students, faculty, and staff, but sometimes space is limited, so please check to see if registration is required.</p>
+
+    <p>Find information about upcoming and past workshops below.</p>
+
+    <a href='{{ site.baseurl }}/resources/workshops.html' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% capture right_text_two %}
+    <p>Digital humanities is a robust, rapidly developing area of research and teaching. To read the latest, stop by the DHLab and browse our collection of desk copies. The collection includes theoretical books, as well as ones that teach specific coding skills. For a complete listing of what we have, visit our <a href='http://www.librarything.com/catalog/YaleDHLab' target='_blank'>LibraryThing</a> page. If there is a book you need that you can't get, contact the DHLab to see if we could order a copy.</p>
+
+    <a href='{{ site.url }}/resources/dh-book-collection.html' class='white-button'>Learn More</a>
+  {% endcapture %}
+
+  {% include text/color_blocks.html
+    left_title_one='Consultations'
+    left_text_one=left_text_one
+
+    left_title_two='Data'
+    left_text_two=left_text_two
+
+    left_title_three='Space & Equipment'
+    left_text_three=left_text_three
+
+    right_title_one='Workshops'
+    right_text_one=right_text_one
+
+    right_title_two='DH Book Collection'
+    right_text_two=right_text_two
+  %}
+
+  {% assign events = site.events | where: 'categories' , 'Workshops' | sort: 'date' | reverse | limit: 3 %}
+  {% include text/three_text_blocks.html
+    items=events
+    label='WORKSHOPS'
+  %}
+</div>

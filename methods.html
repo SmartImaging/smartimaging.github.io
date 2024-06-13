@@ -1,0 +1,48 @@
+---
+layout: default
+class: methods-page full-width-mobile hide-color-hr
+header_color: gray
+title: Methods
+---
+
+<div class='center-column' role='main'>
+  {% capture text %}
+    Digital humanities has a number of <a href="https://en.wikipedia.org/wiki/Digital_humanities" target=“_blank”>definitions</a>. The Digital Humanities Lab (DHLab), a service of Yale University Library, helps scholars in their own engagement with digital tools and methods in the pursuit of humanistic questions. 
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='What is Digital Humanities?'
+    text=text
+  %}
+
+  {% include text/center_section_title.html text='START HERE' %}
+
+  {% capture left_text_one %}
+  <p>Leveraging a wide range of techniques from analyzing or generating materials with neural networks to immersing users in 3D virtual realities, digital humanities projects at Yale think creatively about the ways that digital materialities and methods introduce new engagements with long-standing historical and cultural questions.</p>
+
+  <p>As a theoretical field concerned with the ways human knowledge is created, disseminated, and experienced, DH incorporates a wide range of scholarly backgrounds (from English and History to Computer Science and Statistics) and technical methodologies (from structuralist critique and visual analysis, to data mining and network analysis).</p>
+  {% endcapture %}
+
+  {% capture right_text_one %}
+  <p>To scope out your research question and brainstorm whether a DH lens could be useful to developing or presenting your work, or for other questions or help, <a href="https://dhlab.yale.edu/resources/consultations.html">book a consultation</a> with one of our staff members.</p> 
+  {% endcapture %}
+
+  {% include text/color_blocks.html
+    left_title_one='DH in Research and Practice'
+    left_text_one=left_text_one
+
+    right_title_one='Begin with a Question'
+    right_text_one=right_text_one
+  %}
+
+  {% capture text %}
+  Whether you want to create a graph for a course paper, build an interactive website, or develop a digital edition for your research, DH as a field contains years of collective experience to inspire your own project. The DHLab supports DH projects of all shapes and sizes, including but not limited to: creating digital text editions, building virtual exhibitions, performing analysis of all kinds (text, network, spatial), data visualization, metadata transformation, creating StoryMaps for humanists, developing machine learning algorithms, and more.
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='What do DH projects look like?'
+    text=text
+  %}
+
+  {% include text/methods_guides_bottom.html %}
+</div>
