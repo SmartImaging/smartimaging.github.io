@@ -3,7 +3,7 @@ layout: page
 title: RESEARCH
 tagline: OUR WORK
 permalink: /research.html
-ref: about
+ref: research
 order: 0
 ---
 
