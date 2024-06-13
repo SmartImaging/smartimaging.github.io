@@ -1,5 +1,5 @@
 title: Smart Imaging Lab
-description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll and Gitlab/GitHub Pages.
+description: Center for Biomedical Imaging Research, Tsinghua University, Beijing, China
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -19,7 +19,7 @@ theme: # leave it empty
 author: BanterLin
 image: /thumbnail-jumbo.png
 twitter:
-  username: BanterLin
+  username: SmartImaging
 
 plugins:
   - jekyll-target-blank

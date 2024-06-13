@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: Research
 tagline: A few more words about this theme
-permalink: /about.html
+permalink: /research.html
 ref: about
 order: 0
 ---
