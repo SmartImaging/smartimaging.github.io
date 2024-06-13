@@ -3,7 +3,7 @@ description: Cayman Blog Theme is a clean, responsive blogging theme for Jekyll 
 show_downloads: true
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://smartimaging.github.io" # change this to the base hostname & protocol for your site
+url: "https://smartimaging.github.io/smartimaging.github.io" # change this to the base hostname & protocol for your site
 
 
 google_analytics:
