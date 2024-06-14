@@ -529,12 +529,12 @@ pre {
 
 .color-background {
   background-color: $color;
-  opacity:0.2;
   padding: 40px;
 }
 
 .color-background.circle-caret {
   padding: 40px 80px;
+  opacity:0.2;
 }
 
 .color-background hr {
