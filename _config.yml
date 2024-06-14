@@ -97,13 +97,13 @@ email: chenhj_cbir@tsinghua.edu.cn
 phone: +86-10-62798332
 
 # newsletter url
-newsletter: 'https://subscribe.yale.edu/browse?search=digital+humanities'
+newsletter: ''
 
 # submit news url
-submit_news: 'https://docs.google.com/forms/d/1HvwWecpYODW3DoMVTnJy7beOMfechLPIiVhV5ekvYNI'
+submit_news: ''
 
 # request consultation
-consultation: 'https://docs.google.com/forms/d/e/1FAIpQLSe4Lyo8EEdoiTLosfnmOUNEsZZToCD_n7dZ10ypCerw4diJGA/viewform?usp=sf_link'
+consultation: ''
 
 # configure gems
 plugins:
