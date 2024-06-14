@@ -1,5 +1,5 @@
 ---
-name: Xiaoqi Lin
+name: Xiaoqi Lin 林小奇
 role: PhD Candidate in Biomedical Engineering <br/> Msc.
 image: /assets/images/about/team/XQL.jpg
 order: 2

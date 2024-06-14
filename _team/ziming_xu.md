@@ -1,5 +1,5 @@
 ---
-name: Ziming Xu
+name: Ziming Xu 徐子茗
 role: PhD Candidate in Biomedical Engineering <br/> BS.
 image: /assets/images/about/team/XZM.jpg
 order: 3

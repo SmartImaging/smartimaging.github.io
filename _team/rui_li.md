@@ -1,5 +1,5 @@
 ---
-name: Rui Li
+name: Rui Li 黎睿
 role: PhD Candidate in Biomedical Engineering <br/> BE.
 image: /assets/images/about/team/RL.jpg
 order: 5
