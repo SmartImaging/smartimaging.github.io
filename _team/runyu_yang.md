@@ -3,7 +3,7 @@ name: Runyu Yang
 role: PhD Candidate in Biomedical Engineering <br/> BE.
 image: /assets/images/about/team/XQL.jpg
 order: 4
-group: core_team
+group: student
 ---
 
 Xiaoqi Lin, formerly graduated from Imperial College in 2021 with a Msc degree in Biomedical Engineering, working with wave intensity analysis, in particular evaluating its potential as a non-invasive method for diagnosing heart failure. 
