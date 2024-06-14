@@ -2,7 +2,7 @@
 name: Xiaoqi Lin
 role: PhD Candidate in Biomedical Engineering <br/> Msc.
 image: /assets/images/about/team/xiaoqi_lin.jpg
-order: 2
+order: 3
 group: core_team
 ---
 
