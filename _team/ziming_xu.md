@@ -1,6 +1,6 @@
 ---
 name: Ziming Xu
-role: PhD Candidate in Biomedical Engineering <br/> BE.
+role: PhD Candidate in Biomedical Engineering <br/> BS.
 image: /assets/images/about/team/XZM.jpg
 order: 3
 group: student
