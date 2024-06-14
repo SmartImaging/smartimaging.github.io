@@ -4,7 +4,7 @@ process: true
 
 @import url(bookshelf.css);
 
-$color: #850cff;
+$color: #9c3aff;
 $hotlink: #d7aeff;
 $coldlink: #30888e;
 $focus: 0 0 10px #ADD8E6;
@@ -528,13 +528,12 @@ pre {
 **/
 
 .color-background {
-  background-color: $color;
+  background-color: rgba(133,12,255,0.2);
   padding: 40px;
 }
 
 .color-background.circle-caret {
   padding: 40px 80px;
-  opacity:0.2;
 }
 
 .color-background hr {
