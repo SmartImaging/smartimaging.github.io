@@ -1,8 +1,8 @@
 ---
-name: Ziming Xu
+name: Haozhong Sun
 role: PhD Candidate in Biomedical Engineering <br/> BE.
-image: /assets/images/about/team/XZM.jpg
-order: 3
+image: /assets/images/about/team/HZS.jpg
+order: 2
 group: core_team
 ---
 

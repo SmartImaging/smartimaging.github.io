@@ -2,7 +2,7 @@
 name: Runyu Yang
 role: PhD Candidate in Biomedical Engineering <br/> BE.
 image: /assets/images/about/team/XQL.jpg
-order: 1
+order: 4
 group: core_team
 ---
 
