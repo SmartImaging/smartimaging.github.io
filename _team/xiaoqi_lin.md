@@ -1,9 +1,10 @@
 ---
 name: Xiaoqi Lin
 role: PhD Candidate in Biomedical Engineering <br/> Msc.
-image: /assets/images/about/team/xiaoqi_lin.jpg
+image: /assets/images/about/team/XQL.jpg
 order: 3
 group: core_team
 ---
 
-Gabor Toth, formerly a fellow of the German Historical Institute in Washington, DC, joined the DHLab in October 2017. His background spans both Digital Humanities and History. During his dual appointment in the DHLab and Fortunoff Video Archive for Holocaust Testimonies, Gabor will work on a digital tool that will enable the exploration of a big collection of interviews with Holocaust survivors. Besides, Gabor will prepare a monograph on the computer-assisted analysis of Holocaust interviews.
+Xiaoqi Lin, formerly graduated from Imperial College in 2021 with a Msc degree in Biomedical Engineering, working with wave intensity analysis, in particular evaluating its potential as a non-invasive method for diagnosing heart failure. 
+Xiaoqi Lin is currently second year student in the department of Biomedical Engineering in Tsinghua, working with quantitative methods of prognosis and treatment decision for unresectable Hepatocelluar Carcinoma.
