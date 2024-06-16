@@ -1,8 +1,8 @@
 ---
-title: Digital Humanities Certificate
+title: PhD/Masters Studentship
 order: 1
 image: '/assets/images/banners/sterling-nave.jpg'
-caption: The Nave in Sterling Memorial Library.
+caption: 5T United Imaging MR
 ---
 
-The DHLab welcomes graduate students to complete our Digital Humanities Certificate, starting in fall 2023. After attending our DH Foundations workshop, certificate students will consult with DHLab staff to choose a total of six experiences (satisfied through a personalized combination of coursework, training, and/or project work) in order to demonstrate digital humanities competencies across four possible themes: DH methodologies (text mining, digitization, etc.), equity (accessibility, community engagement, etc.), digital materialities (digital media, archives, etc.), and job functions (project management, technical writing, etc.).  
+Graduate students are invited to apply for the SmartImaging Lab’s graduate programs through Tsinghua University, School of Biomedical Engineering, Department of Biomedical Engineering, which will provide a stipend, space, community, mentorship for relevant training and development costs for students building research projects. Please check back in spring 2025 for details about how to apply.
