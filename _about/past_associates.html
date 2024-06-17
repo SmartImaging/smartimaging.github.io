@@ -17,14 +17,6 @@ class: personnel about-page
   <p> </p>
   {% endcapture %}
 
-
-  {% include about/personnel_archive.html
-    data = site.data.teaching_fellows
-    title = 'Former Fellows'
-    byyear = "false"
-    description = text
-  %}
-
   <br />
 
   {% capture text %}
