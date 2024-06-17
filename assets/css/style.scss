@@ -779,7 +779,7 @@ header {
 }
 
 #cube-container #cube div {
-  background: $color;
+  background: rgb(0, 0, 0);
   position: absolute;
   width: 180px;
   height: 85px;
@@ -788,7 +788,8 @@ header {
 }
 
 #cube-container #cube div img {
-  height: 100%;
+  width: 180px;
+  height: 85px;
 }
 
 #cube-container #cube #cube-face-a {
