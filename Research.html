@@ -1,0 +1,38 @@
+---
+layout: default
+class: awards-page full-width-mobile
+header_color: gray
+title: Research
+---
+
+<div class='center-column' role='main'>
+  {% capture text %}
+  <p>The SmartImaging Lab works on a wide range of resaerch projects with staff, student, and faculty researchers within the Tsinghua campus and beyond, and is uniquely positioned to support graduate and undergraduate students development through existing project partnerships.</p>
+  
+  <p>To learn more about our resaerch, please read below.</p>
+  
+  {% endcapture %}
+
+  {% include text/one-third-width/one_third_split_text_block.html
+    title='Research'
+    text=text
+  %}
+
+  {% include text/center_section_title.html
+    text='Publications'
+  %}
+
+  {% capture left_text_one %}
+  <p>The SmartImaging Lab welcomes graduate students</p>
+    <a href='{{ site.baseurl }}/awards/certificate.html'
+      class='white-button'>Learn More</a>
+  {% endcapture %}
+
+
+  {% include text/color_blocks.html
+    left_title_one='Research'
+    left_text_one=left_text_one
+
+  %}
+
+</div>
