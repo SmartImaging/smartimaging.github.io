@@ -788,15 +788,16 @@ header {
 }
 
 #cube-container #cube div img {
-  height: 100%;
+  width: 180px;
+  height: 85px;
 }
 
 #cube-container #cube #cube-face-a {
-  transform: rotateY(0deg) translateZ(188px);
+  transform: rotateY(0deg) translateZ(88px);
 }
 
 #cube #cube-face-b {
-  transform: rotateY(-90deg) translateZ(188px);
+  transform: rotateY(-90deg) translateZ(88px);
 }
 
 @media (min-width: 1000px) and (max-width: 1210px) {
