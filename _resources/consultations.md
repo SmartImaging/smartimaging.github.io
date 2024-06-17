@@ -1,6 +1,6 @@
 ---
 title: Consultations
-order: 0
+order: 5
 layout: resource
 image: '/assets/images/banners/franke-consult.jpg'
 caption: Photo by Mara Lavitt.
