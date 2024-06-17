@@ -1,6 +1,6 @@
 ---
 title: Research
-order: 3
+order: 2
 layout: resource
 image: '/assets/images/banners/SIMPLESTAR.png'
 caption: |
