@@ -38,7 +38,7 @@ collections:
     output: true
   awards:
     output: true
-  opportunities:
+  study_research:
     output: true
   team:
     output: false
