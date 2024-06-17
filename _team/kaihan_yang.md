@@ -1,6 +1,6 @@
 ---
 name: Kaihan Yang 杨凯涵
-role: PhD Candidate in Biomedical Engineering <br/> BE.
+role: PhD Student in Biomedical Engineering <br/> BE.
 image: /assets/images/about/team/KHY.jpg
 order: 8
 group: student
