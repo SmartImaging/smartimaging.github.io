@@ -2,7 +2,7 @@
 name: Runyu Yang 杨润宇
 role: PhD Candidate in Biomedical Engineering <br/> BS.
 image: /assets/images/about/team/RYY.jpg
-order: 4
+order: 1
 group: student
 ---
 

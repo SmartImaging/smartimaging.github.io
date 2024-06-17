@@ -2,7 +2,7 @@
 name: Haozhong Sun 孙浩中
 role: PhD Candidate in Biomedical Engineering <br/> BE.
 image: /assets/images/about/team/HZS.jpg
-order: 1
+order: 3
 group: student
 ---
 
