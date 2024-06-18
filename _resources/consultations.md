@@ -2,9 +2,11 @@
 title: Consultations
 order: 5
 layout: resource
-image: '/assets/images/banners/CBIR.jpg'
-caption: Picture of the Center for Biomedical Imaging Research (CBIR).
-alt: Picture of the Center for Biomedical Imaging Research (CBIR).
+image: '/assets/images/banners/SIMPLESTAR.png'
+caption: |
+Simultaneous T1,T2 and T2star Mapping of Carotid Plaque, The SIMPLE STAR technique. Image from Wang Y et al. Radiology. 2023 May;307(3):e222061. doi: 10.1148/radiol.222061.
+alt: | 
+Simultaneous T1,T2 and T2star Mapping of Carotid Plaque, The SIMPLE STAR technique. Image from Wang Y et al. Radiology. 2023 May;307(3):e222061. doi: 10.1148/radiol.222061.
 
 ---
 
