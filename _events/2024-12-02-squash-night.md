@@ -35,3 +35,13 @@ Tsinghua University Northern Gymnasium
 To confirm your participation, please reply in the WeChat group with your **full name + confirmation of attendance**. Replies are required by **8:00 p.m. on December 2, 2024**. Failure to respond by this time will be considered a withdrawal from the event.  
 
 Don't miss this opportunity to enjoy squash, meet new people, and have a great time! We look forward to seeing you on the court!  
+
+### Participation List
+Join us for an exciting night of squash! Register your participation below by filling out the form.
+
+<form action="/submit_registration" method="POST">
+  <label for="name">Name:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <input type="submit" value="Register">
+</form>
