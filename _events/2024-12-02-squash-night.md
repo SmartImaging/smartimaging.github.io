@@ -3,7 +3,7 @@ title: "Squash Activity Night"
 date: 2024-12-02  
 dates:  
   - 2024-12-02  
-time: 20:00 - 21:00 GMT+8
+time: 20:00 - 22:00 GMT+8
 location: Tsinghua University Northern Gymnasium  
 thumbnail: /assets/images/events/squash-court.jpg  
 alt: Photograph of a squash court.  
@@ -26,7 +26,7 @@ Join us at the **Squash Activity Night** organized by SmartImagingLab, where par
 ### Event Details  
 **Date and Time:**  
 Monday, December 2, 2024  
-8:00 p.m. - 9:00 p.m. GMT+8
+8:00 p.m. - 10:00 p.m. GMT+8
 
 **Location:**  
 Tsinghua University Northern Gymnasium  
