@@ -26,7 +26,7 @@ Join us at the **Squash Activity Night** organized by SmartImagingLab, where par
 ### Event Details  
 **Date and Time:**  
 Monday, December 2, 2024  
-8:00 p.m. - 9:00 p.m. Beijing Time  
+8:00 p.m. - 9:00 p.m. GMT+8
 
 **Location:**  
 Tsinghua University Northern Gymnasium  
